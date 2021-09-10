@@ -11,7 +11,10 @@
 * Python
 * Tableau
 
-## 사용한 데이터
+## CODE
+* 지역별 성평등 지수 크롤링
+
+## DATA
 * 청년패널조사
 * OECD Stats
 * 중앙자살예방센터
